@@ -1,0 +1,12 @@
+BLOG ABOUT JAVASCRIPT OBJECTS;
+
+OBJECTS ;
+Objects are non-primitive  data types,it contains many values.
+We can visualize objects that contain properties and methods.
+spaces and line breaks are not important as it can span multiple lines.
+JavaScript Objects can easily relate to Real-life Objects.
+javascript objects are variables.
+
+EXAMPLE;
+
+      let car = {model : "audi",color : "white",year of launch : "2018"}
