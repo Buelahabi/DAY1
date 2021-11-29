@@ -1,12 +1,16 @@
-BLOG ABOUT JAVASCRIPT OBJECTS;
+HTTP1.1
 
-OBJECTS ;
-Objects are non-primitive  data types,it contains many values.
-We can visualize objects that contain properties and methods.
-spaces and line breaks are not important as it can span multiple lines.
-JavaScript Objects can easily relate to Real-life Objects.
-javascript objects are variables.
+It make use of multiple TCP connection.
+Http 1.1 send files (HTML,JS and CSS) one by one from server to client so if one file takes time to load it restricts another files to open.
+As we know the file restriction is here it slow down the display speed of content to the user.
+All Http connection compress files for easy transfer,whereas the Http 1.1 uses least compression method.
 
-EXAMPLE;
 
-      let car = {model : "audi",color : "white",year of launch : "2018"}
+
+
+HTTP2
+
+HTTP/2 establishes a single connection object between the two machines.
+http 2 sends whole files at once so there is no possible ways to one file restricts another.
+As we know the file restriction is not here it enhance the display speed of content to the user.
+Http 2 uses advanced compression method to compress.
